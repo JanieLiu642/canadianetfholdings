@@ -20,6 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,7 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659646383806</updated>
       <workItem from="1659646385585" duration="8000" />
-      <workItem from="1659646424276" duration="1043000" />
+      <workItem from="1659646424276" duration="1174000" />
     </task>
     <servers />
   </component>
